@@ -1,0 +1,9 @@
+fastqc
+input
+log
+multiqc
+qc
+ref
+output
+.vscode
+.snakemake

@@ -1,0 +1,8 @@
+# input:
+#     input/{group}_Rep{rep}_ERCC-Mix2_Build37-ErccTranscripts-chr22.read{read}.fastq.gz
+group:
+  ['HBR', 'UHR']
+rep:
+  [1,2,3]
+read:
+  [1,2]

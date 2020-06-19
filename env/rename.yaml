@@ -1,0 +1,9 @@
+name: rename
+channels:
+  - bioconda
+  - defaults
+dependencies:
+  - perl=5.26.2
+  - rename=1.601
+prefix: /Users/zhuguanchen/miniconda3/envs/rename
+
